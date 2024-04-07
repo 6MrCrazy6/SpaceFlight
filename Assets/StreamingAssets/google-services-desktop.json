@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24412408641",
+    "project_id": "testproject-13031",
+    "storage_bucket": "testproject-13031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24412408641:android:50f48967cfff8387192fc0",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SpaceFlignt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb15iZgzMbBxvP9S2GfLhiHOmXYOO2bGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
